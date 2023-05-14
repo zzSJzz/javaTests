@@ -4,10 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36ebee1d-36ee-4786-9b81-4be2e1ae6063" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+    <list default="true" id="36ebee1d-36ee-4786-9b81-4be2e1ae6063" name="Changes" comment="git push">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/jdk20/devDojo/introducao/whileDoFor01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/animal/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest1/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest1/Quadrante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest2/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest2/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest3/Caneta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest3/CanetaTeste.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest4/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest4/Lampada.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest5/Apolice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest5/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest6/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest6/RegistroAcademico.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest7/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest7/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest7/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest8/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest8/PessoaFisica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvd18e19/quest8/PessoaJuridica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdCarros/Automovel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdConta/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdConta/ContaCorrente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdFuncionario/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdFuncionario/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdFuncionarios/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdFuncionarios/Funcionarios.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdFuncionarios/Gerente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdFuncionarios/dataBaseFuncionarios.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdHumanoArma/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdHumanoArma/Arma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdHumanoArma/Humano.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdRetangulo/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/atvdRetangulo/Retangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q1/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q1/ContaCorrente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q1/ContaPoupanca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q2/Cliente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q2/PessoaFisica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q2/PessoaJuridica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q3/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q3/Cachorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q3/Cavalo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q3/Preguica.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q4/Automovel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q4/Bicicleta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q4/Oficina.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q4/Veiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q5/Quadrilatero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/lista4/q5/Retangulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/maiorNumero/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/maiorNumero/MaiorNumero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/numeroDescrescente/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/numeroDescrescente/NumeroDecrescente.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/primeiraSemana/q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/primeiraSemana/q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/primeiraSemana/q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/segundaSemana/contaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/activitys/others/jdk17/terceiraSemana/altura.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +82,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,7 +100,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/samue/javaprojects/jdk17"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684088690660</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Enviando arquivos de estudos antigos e os atuais.">
+      <created>1684091046643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1684091046643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,6 +143,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Enviando arquivos de estudos antigos e os atuais." />
+    <option name="LAST_COMMIT_MESSAGE" value="Enviando arquivos de estudos antigos e os atuais." />
   </component>
 </project>

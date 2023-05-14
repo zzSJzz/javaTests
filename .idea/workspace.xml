@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36ebee1d-36ee-4786-9b81-4be2e1ae6063" name="Changes" comment="git push">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="36ebee1d-36ee-4786-9b81-4be2e1ae6063" name="Changes" comment="first activity" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684091902589</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="first activity">
+      <created>1684104699305</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684104699305</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +97,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Enviando arquivos de estudos antigos e os atuais." />
     <MESSAGE value="git push" />
-    <option name="LAST_COMMIT_MESSAGE" value="git push" />
+    <MESSAGE value="first activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="first activity" />
   </component>
 </project>
